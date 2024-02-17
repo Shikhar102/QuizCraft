@@ -1,4 +1,4 @@
-# Quiz Craft Game
+## Quiz Craft Game
 
 Welcome to the Quiz Game project! This interactive quiz game allows users to test their knowledge with various question types. Toggle between light and dark themes for a personalized experience.
 
@@ -29,6 +29,7 @@ These instructions will help you set up and run the quiz game on your local mach
 - Scorekeeping: Track your score as you progress through the quiz.
 - Immediate feedback: Receive instant feedback on the correctness of your answers.
 - Dark/Light theme toggle: Customize the app's appearance with a dark or light theme.
+  
 
 - ![image](https://github.com/Shikhar102/QuizCraft/assets/101554921/8444ae65-8684-4bd9-9ede-7ea6cd832241)
 - ![image](https://github.com/Shikhar102/QuizCraft/assets/101554921/9037ea92-f29a-4f15-a1bf-a5dcd4d9dffc)
