@@ -1,4 +1,4 @@
-## Quiz Craft Game
+# Quiz Craft Game
 
 Welcome to the Quiz Game project! This interactive quiz game allows users to test their knowledge with various question types. Toggle between light and dark themes for a personalized experience.
 
